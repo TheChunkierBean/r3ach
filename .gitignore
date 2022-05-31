@@ -1,1 +1,16 @@
 /sound/*
+*.sound
+sound/weapons/focus_rifle/fr_overheat/fr_overheat.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fp/focus_rifle_firing_loop/focus_rifle_firing_loop.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fire/focus_rifle_fire.sound_looping
+sound/weapons/focus_rifle/focus_beam_impact.sound
+sound/weapons/focus_rifle/fr_overheat/fr_overheat.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fp/focus_rifle_firing_loop/focus_rifle_firing_loop.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fire/focus_rifle_fire.sound_looping
+sound/weapons/focus_rifle/focus_beam_impact.sound
+sound/weapons/focus_rifle/fr_overheat/fr_overheat.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fp/focus_rifle_firing_loop/focus_rifle_firing_loop.sound_looping
+sound/weapons/focus_rifle/focus_rifle_fire/focus_rifle_fire.sound_looping
+sound/weapons/focus_rifle/focus_beam_impact.sound
+*.sound_looping
+*.sound
