@@ -1,3 +1,6 @@
-/sound/*
+/sound/
+
 *.sound
 *.sound_looping
+
+[Dd]esktop.ini
