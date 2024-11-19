@@ -38,7 +38,7 @@ This repository serves as a home for a subset of files that need version control
   - scripts for importing sound in bulk
 
 ### TheChunkierBean
-- editing for videos about R3ACH on VKMT's YouTube channel
+- editing for videos about R3ACH on [VKMT's YouTube channel](https://www.youtube.com/@VKMTHalo)
 - first iteration of the DMR, Gravity Hammer, and Sniper Rifle
 
 ### Sean T
