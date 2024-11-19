@@ -2,7 +2,7 @@
 
 The R3ACH Weapon Pack is a collection of assets intended for modders of Halo: The Master Chief Collection. The pack includes many of the weapons featured in Halo: Reach, ported to Halo 3.
 
-This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and ModDB. 
+This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and on ModDB. 
 
 
 ## Credits
@@ -27,9 +27,9 @@ This repository serves as a home for a subset of files that need version control
     - base animation `first_person throw_equipment`
   - third-person animations for the models of various weapons
 - user interface
-  - custom icon for Battle Rifle from Halo: Reach Evolved
-  - custom meters for the Concussion Rifle, DMR, Needle Rifle, and Needler
-  - minor adjustments for weapon icons taken from Halo: Reach
+  - new icon for Battle Rifle from Halo: Reach Evolved
+  - new meters for the Concussion Rifle, DMR, Needle Rifle, and Needler
+  - minor adjustments for icons from Halo: Reach to fit the HUD in Halo 3
 - miscellaneous
   - adjustments and modifications to various models and textures
   - script for reorganizing sound extracted using Reclaimer
@@ -45,6 +45,7 @@ This repository serves as a home for a subset of files that need version control
 - first iteration of the Brute Plasma Rifle, Magnum, and Plasma Rifle
 
 ### Ludus
+- corrections and improvements for compressed textures
 - model for the Battle Rifle from Halo: Reach Evolved
 - modified specular mask for Plasma Launcher
 
