@@ -1,8 +1,10 @@
 # The R3ACH Weapon Pack
 
-The R3ACH Weapon Pack is a collection of assets intended for modders of Halo: The Master Chief Collection. The pack includes many of the weapons featured in Halo: Reach, ported to Halo 3.
+The R3ACH Weapon Pack is a collection of assets intended for modders of Halo: The Master Chief Collection. The pack includes many of the weapons in Halo: Reach, ported to Halo 3.
 
-This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and on ModDB. 
+This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and ModDB. 
+
+For those that wish to clone the repository, please ensure the files end up in `path\to\H3EK\tags\dw3\r3ach`
 
 
 ## Credits
