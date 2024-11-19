@@ -4,7 +4,7 @@ The R3ACH Weapon Pack is a collection of assets intended for modders of Halo: Th
 
 This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and ModDB. 
 
-For those that wish to clone the repository, please ensure the files end up in `path\to\H3EK\tags\dw3\r3ach`
+For those that want to clone the repository, ensure `r3ach` ends up in `path\to\H3EK\tags\dw3`
 
 
 ## Credits
@@ -21,7 +21,7 @@ For those that wish to clone the repository, please ensure the files end up in `
 
 ### Abstract Ingenuity
 - animation
-  - correction of problems and mistakes in many extracted animations
+  - corrections and improvements for many extracted animations
   - dual-wield animations for the Assault Rifle in first-person view
   - new first-person animations for all weapons
     - overlay animation `first_person overlays`
