@@ -19,11 +19,12 @@ This repository serves as a home for a subset of files that need version control
 
 ### Abstract Ingenuity
 - animation
-  - correction of problems and mistakes in extracted animations
+  - correction of problems and mistakes in many extracted animations
   - dual-wield animations for the Assault Rifle in first-person view
-  - `first_person overlays.JMO` for all weapons
-  - `first_person pitch_and_turn.JMO` for all weapons
-  - `first_person throw_equipment.JMO` for all weapons
+  - new first-person animations for all weapons
+    - overlay animation `first_person overlays`
+    - overlay animation `first_person pitch_and_turn`
+    - base animation `first_person throw_equipment`
   - third-person animations for the models of various weapons
 - user interface
   - custom icon for Battle Rifle from Halo: Reach Evolved
@@ -44,8 +45,8 @@ This repository serves as a home for a subset of files that need version control
 - first iteration of the Brute Plasma Rifle, Magnum, and Plasma Rifle
 
 ### Ludus
-- modified specular mask for Plasma Launcher
 - model for the Battle Rifle from Halo: Reach Evolved
+- modified specular mask for Plasma Launcher
 
 ### xScruffyDaSasquatchx
 - material responses and impact damage for Needle Rifle and Needler
