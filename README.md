@@ -4,7 +4,7 @@ The R3ACH Weapon Pack is a collection of assets intended for modders of Halo: Th
 
 This repository serves as a home for a subset of files that need version control. The other files will be included for releases. They will be available on NexusMods and ModDB. 
 
-For those that want to clone the repository, ensure `r3ach` ends up in `path\to\H3EK\tags\dw3`
+For those that want to clone the repository, ensure `r3ach` is in `path\to\H3EK\tags\dw3`
 
 
 ## Credits
@@ -22,14 +22,14 @@ For those that want to clone the repository, ensure `r3ach` ends up in `path\to\
 ### Abstract Ingenuity
 - animation
   - corrections and improvements for many extracted animations
-  - dual-wield animations for the Assault Rifle in first-person view
+  - first-person dual-wield animations for the Assault Rifle
   - new first-person animations for all weapons
-    - overlay animation `first_person overlays`
-    - overlay animation `first_person pitch_and_turn`
+    - pose overlay animation `first_person overlays`
+    - pose overlay animation `first_person pitch_and_turn`
     - base animation `first_person throw_equipment`
   - third-person animations for the models of various weapons
 - user interface
-  - new icon for Battle Rifle from Halo: Reach Evolved
+  - new icon for the Battle Rifle from Halo: Reach Evolved
   - new meters for the Concussion Rifle, DMR, Needle Rifle, and Needler
   - minor adjustments for icons from Halo: Reach to fit the HUD in Halo 3
 - miscellaneous
@@ -49,10 +49,11 @@ For those that want to clone the repository, ensure `r3ach` ends up in `path\to\
 ### Ludus
 - corrections and improvements for compressed textures
 - model for the Battle Rifle from Halo: Reach Evolved
-- modified specular mask for Plasma Launcher
+- modified specular mask for the Plasma Launcher
 
 ### xScruffyDaSasquatchx
-- material responses and impact damage for Needle Rifle and Needler
+- material responses and impact damage for the Needle Rifle
+- material responses and impact damage for the Needler
 
 
 ## Special Thanks
